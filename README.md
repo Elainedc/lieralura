@@ -8,8 +8,11 @@ Esse projeto tem por objetivo demonstrar o uso de uma API externa (Gutendex) e o
 5. Listar livros em determinado idioma no banco de dados (português, espanhol, inglês e francês);
 6. Top 10 livros mais baixados no banco de dados.
 7. Buscar autor pelo nome no banco de dados.
-   Pré-requisitos:
+
+Pré-requisitos:
+
 * Java 17;
 * Maven;
 * PostgreSQL;
 * Git
+  
